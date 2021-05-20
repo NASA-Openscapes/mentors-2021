@@ -3,4 +3,5 @@ Demo for DAAC Mentors, during our 1-hour GitHub Clinic ([slides](https://docs.go
 
 Also GitHub Clinic #2.
 
-testing here
+
+## Room 1 was here on `5-20-2021`. 
